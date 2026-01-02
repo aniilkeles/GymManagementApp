@@ -68,6 +68,16 @@ https://drive.google.com/file/d/1hWTm6xECRcH1-9bNfulw9kA4z70WLzu5/view
 Screenshots are not included in this repository.
 All core functionalities of the application are demonstrated in the video provided above.
 
+
+## Icons Used in the Project
+
+<p align="center">
+  <img src="Images/trainer_icon.jpg" width="80" alt="Trainer Icon" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="Images/user_icon.jpg" width="80" alt="User Icon" />
+</p>
+
+
 ## Author
 
 Anıl Keleş  
