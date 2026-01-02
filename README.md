@@ -68,6 +68,54 @@ https://drive.google.com/file/d/1hWTm6xECRcH1-9bNfulw9kA4z70WLzu5/view
 Screenshots are not included in this repository.
 All core functionalities of the application are demonstrated in the video provided above.
 
+## Screenshots
+
+### 1. Initial Members List
+Initial state of the application showing the list of registered gym members.
+
+![Initial Members](Screenshots/SWE305%20SS1.png)
+
+---
+
+### 2. Member Removal
+An existing member is removed from the system. The members list and occupancy rate are updated accordingly.
+
+![Member Removal](Screenshots/SWE305%20SS2.png)
+
+---
+
+### 3. Adding New Members
+New gym members are added using the member registration panel on the left side of the application.
+
+![Add Member](Screenshots/SWE305%20SS3.png)
+
+---
+
+### 4. Updating Member Information
+An existing member’s information (name, birth date, membership type, trainer, or workout plan) is updated.
+
+![Update Member](Screenshots/SWE305%20SS4.png)
+
+---
+
+### 5. Searching Members by Name
+The search box is used to quickly find a specific member by typing the member’s name.
+
+![Search Member](Screenshots/SWE305%20SS5.png)
+
+---
+
+### 6. Searching by Trainer Name
+The search functionality is also used to list members by typing a trainer’s name.
+
+![Search Trainer](Screenshots/SWE305%20SS6.png)
+
+---
+
+### 7. Freezing Membership
+A member’s membership is frozen. The member becomes inactive and the visual status of the card changes accordingly.
+
+![Freeze Membership](Screenshots/SWE305%20SS7.png)
 
 ## Icons Used in the Project
 
