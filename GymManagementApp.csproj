@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\trainer_icon.jpg" />
+    <None Remove="Images\user_icon.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\trainer_icon.jpg" />
+    <Resource Include="Images\user_icon.jpg" />
+  </ItemGroup>
+
+</Project>
