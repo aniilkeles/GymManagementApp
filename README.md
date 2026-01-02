@@ -65,8 +65,7 @@ https://drive.google.com/file/d/1hWTm6xECRcH1-9bNfulw9kA4z70WLzu5/view
 
 ## Notes
 
-Screenshots are not included in this repository.
-All core functionalities of the application are demonstrated in the video provided above.
+Screenshots of the application interface are included in the GitHub repository as requested.
 
 ## Screenshots
 
